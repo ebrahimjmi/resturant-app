@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/resturant-app/static/css/main.e76a0f4b.chunk.css",
+    "main.js": "/resturant-app/static/js/main.351058d3.chunk.js",
+    "main.js.map": "/resturant-app/static/js/main.351058d3.chunk.js.map",
+    "runtime-main.js": "/resturant-app/static/js/runtime-main.58538fcd.js",
+    "runtime-main.js.map": "/resturant-app/static/js/runtime-main.58538fcd.js.map",
+    "static/js/2.a8bac581.chunk.js": "/resturant-app/static/js/2.a8bac581.chunk.js",
+    "static/js/2.a8bac581.chunk.js.map": "/resturant-app/static/js/2.a8bac581.chunk.js.map",
+    "static/js/3.3196aceb.chunk.js": "/resturant-app/static/js/3.3196aceb.chunk.js",
+    "static/js/3.3196aceb.chunk.js.map": "/resturant-app/static/js/3.3196aceb.chunk.js.map",
+    "index.html": "/resturant-app/index.html",
+    "static/css/main.e76a0f4b.chunk.css.map": "/resturant-app/static/css/main.e76a0f4b.chunk.css.map",
+    "static/js/2.a8bac581.chunk.js.LICENSE.txt": "/resturant-app/static/js/2.a8bac581.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/resturant-app/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.58538fcd.js",
+    "static/js/2.a8bac581.chunk.js",
+    "static/css/main.e76a0f4b.chunk.css",
+    "static/js/main.351058d3.chunk.js"
+  ]
+}
